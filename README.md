@@ -244,9 +244,6 @@ document
 ## OUTPUT:
 
 ![output1](https://user-images.githubusercontent.com/93427086/150680845-a21f35fb-9302-4512-a2db-10ffa41e4482.png)
-
-![output2](https://user-images.githubusercontent.com/93427086/150680851-a4842468-30f2-4601-98e2-89aebdba325d.png)
-
 ![output3](https://user-images.githubusercontent.com/93427086/150680855-decd3634-3a03-4ba9-b51c-5434a760f4b8.png)
 
 ## Result:
